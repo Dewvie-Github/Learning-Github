@@ -4,7 +4,7 @@ def p(text):
     print(text)
 
 def add(a,b):
-    return a+c
+    return a+b
 
 p("Hello World")
 p("Choose Choice")
