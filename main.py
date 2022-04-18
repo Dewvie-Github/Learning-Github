@@ -6,6 +6,9 @@ def p(text):
 def add(a,b):
     return a+b
 
+def hi():
+    return hi
+
 p("Hello World")
 p("Choose Choice")
 p("1. to exit program.")
